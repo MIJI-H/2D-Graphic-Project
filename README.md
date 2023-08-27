@@ -6,14 +6,20 @@ Title: Drawing XJTLU 15th anniversary card on visual studio
 [↑Screenshot of project] 
 
 [Central building]
+
 Central building represent XTJLU
+
 -Base: Through the polygon, the basic framework of the Central Building was created.
+
 -Line: Using the “While” , I expressed the straight lines on the exterior of the Central Building.
 
 [Tree, Flower]
 Because there are trees and flowers around the Central Building, put them in a congratulatory card.
+
 Tree:  It's a combination of squares and circles.
+
 Flower: Flowers were drawn through six circles and straight lines.
+
 Flowers of different heights were made through translatef().
 
 [Sky]
@@ -21,9 +27,11 @@ To express the sky, the background color is set to be similar to the sky and the
 Cloud: In order to represent clouds floating in the sky, movement was embodied in the clouds.
 Keyboard and mouse interaction have been added to change the movement.        
 I have set the two clouds so that they can start from different positions.
+
 (Keyboard interaction) 
+
 U and u make increase the speed of cloud movement.
-D and d make decrease the speed of cloud movement..
+D and d make decrease the speed of cloud movement.
 Q and q  are button to close the window.
 R and r make cloud back to speed of first movement.
 
